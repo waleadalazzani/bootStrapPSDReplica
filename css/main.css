@@ -1,0 +1,75 @@
+.fa-heart {
+	font-size: 25px;
+}
+
+.nav {
+	background-color: lightblue;
+}
+
+.lightblue {
+	background-color: lightblue;
+}
+
+img.imgOne {
+	height: 200px;
+}
+
+img.imgTwo {
+	height: 200px;
+}
+body {
+	font-family: 'Merriweather', serif;
+}
+
+div.green {
+	background-color: lightgreen;
+}
+
+h1.jumboHOne {
+	font-size: 30px;
+}
+
+img.imgRight {
+	float: right;
+}
+
+div.team {
+	height: 250px;
+}
+
+div.teamRow {
+	background-color: #ffb6c1;
+}
+
+.fa-facebook-square {
+	color: #3b5998;
+	font-size: 45px;
+}
+
+.fa-twitter-square {
+ 	color: #55acee;
+ 	font-size: 45px;
+ }
+
+ .fa-pinterest-square {
+ 	color: #cb2027;
+ 	font-size: 45px;
+ }
+
+ .tBtn, .fBtn, .htmlBtn, .fkrBtn {
+ 	color: rgba(255,255,255,0.7);
+ 	font-size: 45px;
+ }
+
+ .tan {
+ 	color: #DAA520;
+ }
+
+.lightGrey {
+	color: #C0C0C0;
+}
+
+.footer {
+	background-color: #373737;
+	color: #FFF;
+}
