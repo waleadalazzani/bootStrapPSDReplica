@@ -2,12 +2,12 @@
 	font-size: 25px;
 }
 
-.nav {
-	background-color: lightblue;
-}
+/*.navOne {
+	float: right!important;
+}*/
 
 .lightblue {
-	background-color: lightblue;
+	background-color: lightblue!important;
 }
 
 img.imgOne {
